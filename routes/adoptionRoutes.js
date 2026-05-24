@@ -18,3 +18,4 @@ router.patch("/:id/status", verifyToken, updateRequestStatus);
 router.delete("/:id", verifyToken, cancelRequest);
 
 export default router;
+// adoption routes
