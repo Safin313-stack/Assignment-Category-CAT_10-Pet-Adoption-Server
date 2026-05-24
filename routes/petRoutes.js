@@ -24,3 +24,4 @@ router.delete("/:id", verifyToken, deletePet);
 router.get("/user/my-listings", verifyToken, getMyListings);
 
 export default router;
+// pet routes
