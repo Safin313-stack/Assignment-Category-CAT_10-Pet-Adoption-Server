@@ -20,9 +20,9 @@ Backend REST API for **PawsHome** — a full-stack Pet Adoption Platform. Built 
 
 ## 🌐 Live API URL
 
-> ### 🔗 [https://pawshome-api.onrender.com](https://pawshome-api.onrender.com)
+> ### 🔗 [[https://pawshome-api.onrender.com](https://assignment-category-cat-10-pet-adop.vercel.app/)]([https://pawshome-api.onrender.com](https://assignment-category-cat-10-pet-adop.vercel.app/))
 
-**Client Site:** [https://pawshome.vercel.app](https://pawshome.vercel.app)
+**Client Site:** [[https://pawshome.vercel.app](https://pawshome.vercel.app](https://assignment-category-cat-10-pet-adop.vercel.app/))
 
 ---
 
